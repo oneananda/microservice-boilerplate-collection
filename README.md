@@ -35,7 +35,7 @@ microservice-boilerplate-collection/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/microservice-boilerplate-collection.git
+git clone https://github.com/oneananda/microservice-boilerplate-collection.git
 cd microservice-boilerplate-collection
 ```
 
